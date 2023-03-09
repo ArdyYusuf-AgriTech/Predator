@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .hoverable:hover .hidden-element {
-    opacity: 1;
-  }
+  opacity: 1;
+}
